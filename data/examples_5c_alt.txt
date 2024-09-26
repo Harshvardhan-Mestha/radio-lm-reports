@@ -1,0 +1,112 @@
+Example of "Mesothelioma"
+Diagnosis: Malignant pleural mesothelioma
+- Right sided pleural effusion
+
+Patient Presentation: Cough. Right-sided pleural effusion.
+
+Description: Dense lower zone opacity.
+
+Proximally the lung is enclosed by lobulated peripheral soft-tissue.
+
+Case Discussion: Malignant pleural mesothelioma (MPM), which is associated 
+with previous asbestos exposure in approximately 80% of cases, is the most 
+common pleural malignancy.
+
+Chest CT is the preferred imaging modality for diagnosis and staging of 
+MPM. Key imaging findings of MPM include unilateral diffuse or nodular 
+pleural thickening, unilateral pleural effusion, and multifocal studding of 
+pleural surfaces.
+
+Common radiographic features that indicate asbestos exposure include round 
+atelectasis of the lower lobes, pleural plaques and pleural fibrosis.
+
+
+
+Example of "Pleural Effusion"
+
+Diagnosis: Massive pleural effusion
+
+Patient Presentation: Increasing dyspnea, dry cough, poor appetite, fatigue 
+and lethargy.
+
+Description: A right-sided pleural effusion with total white-out of the 
+right hemithorax and minor mediastinal shift to the left.
+
+Minor left-sided pleural effusion.
+
+Case Discussion: Unilateral white-out can be due to collapse, consolidation, 
+effusion or a combination and the position of the mediastinum is key to 
+diagnosis. Massive pleural effusion causes contralateral shift however 
+the degree of shift depends on the degree of accompanying pulmonary collapse.
+
+In this case, the appearance suggests a massive right pleural effusion with 
+collapse of the right lung.
+
+
+Example of "Pneumonia"
+
+Diagnosis: Legionella pneumonia
+
+Patient Presentation: Fevers, Cough.
+
+Description: Predominantly mid to lower zone airspace opacity. No large 
+pleural effusion. 
+
+Legionella Multiplex PCR
+
+Specimen Type/Site:     Bronchial Washings
+
+       Legionella species:          Positive
+       Legionella pneumophila:   Negative
+
+Species:        Legionella longbeachae
+
+Case Discussion: The chest x-ray features of legionella pneumonia are 
+non-specific but include a mid-to-lower zone predominance of patchy 
+consolidation and the condition is sometimes associated with pleural 
+effusions (~ 30%). 
+
+Radiographic deterioration does not correlate well with clinical condition. 
+
+Legionella longbeachae is commonly found in potting mix (soil), more so in 
+Australia than in Europe. It is an increasingly common (compared to 
+Legionella pneumophila and other species) source of legionellosis. 
+
+
+Example of "Pneumothorax"
+
+Diagnosis: Pneumothorax - post chest tube removal
+
+Patient Presentation: Control radiograph after chest tube removal.
+
+Description: Chest radiograph revealed a right pneumothorax, marked by the 
+visible right pleural edge, the absence of lung vessels peripheral to the 
+pleural, and the increased peripheral space radiolucency when compared to 
+the other lung.
+
+The mediastinum is not shifted, indicating this is a simple pneumothorax.
+
+Case Discussion: Removal of a chest tube may cause pneumothorax, which 
+happened in this present case.
+
+
+Example of "Tuberculosis"
+
+Diagnosis: Post-primary tuberculosis
+
+Patient Presentation: Non-specific cough for last three months. Good social 
+status.
+
+Description: Diffuse reticular and micronodular pattern with a predilection 
+for upper and middle zones. There is a mass in the middle zone of the right 
+lung and two cavities in the middle and upper zones of the left lung.
+
+Case Discussion: Although tuberculosis is mainly a problem in developing 
+countries, there is a rising incidence in developed countries too. 
+Therefore it is important to use chest x-ray as a relatively low dose 
+clinical test which returns valuable results, especially in younger 
+patients with uncertain airway changes.
+
+Previous contact with tuberculosis was not reported in this case, and the 
+bronchial lavage smear for acid-fast bacilli was positive. The CT was 
+performed to exclude other thoracic pathologies.  
